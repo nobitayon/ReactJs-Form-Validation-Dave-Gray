@@ -1,11 +1,10 @@
-import { Register } from "./Components"
-
+import { Login, Register } from "./Components"
 
 function App() {
 
   return (
     <main className="App">
-      <Register/>
+      <Login/>
     </main>
   )
 }
